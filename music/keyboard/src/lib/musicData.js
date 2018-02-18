@@ -1,0 +1,90 @@
+export const guitar = {
+    dir:"audio",
+    data:{
+        'a':{
+            name:'A4.mp3',
+        },
+        's':{
+            name:'A5.mp3',
+        },
+        'd':{
+            name:'C5.mp3',
+        },
+        'f':{
+            name:'D5.mp3',
+        },
+        'g':{
+            name:'D7.mp3',
+        },
+        'h':{
+            name:'E5.mp3',
+        },
+        'j':{
+            name:'E6.mp3',
+        },
+        'k':{
+            name:'G4.mp3',
+        },
+        'l':{
+            name:'G6.mp3',
+        },
+    }
+}
+
+export const drum = {
+    dir:"drum",
+    data:{
+        s:{
+            name:"bottle.wav"
+        },
+        d:{
+            name:"c_snare.wav"
+        },
+        f:{
+            name:"chh.wav"
+        },
+        j:{
+            name:"clap.wav"
+        },
+        k:{
+            name:"cowbel.wav"
+        },
+        l:{
+            name:"kick_11j.wav"
+        },
+
+    }
+}
+
+export const bass = {
+    dir:'bass',
+    data:{
+        'a':{
+            name:'bassj1.wav',
+        },
+        's':{
+            name:'bass3.wav',
+        },
+        'd':{
+            name:'bass13.wav',
+        },
+        'f':{
+            name:'bassc8.wav',
+        },
+        'g':{
+            name:'basse1.wav',
+        },
+        'h':{
+            name:'basssub1.wav',
+        },
+        'j':{
+            name:'c_hh.wav',
+        },
+        'k':{
+            name:'c_snare.wav',
+        },
+        'l':{
+            name:'deepbass2.wav',
+        },
+    }
+}
